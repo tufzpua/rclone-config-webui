@@ -1,0 +1,12 @@
+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
+
+
+git remote set-url origin https://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@github.com/tufzpua/rclone-cloud-webui.git
+
+https://github.com/tufzpua/rclone-cloud-webui
+
+origin	https://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@github.com/tufzpua/rclone-cloud-webui.git (fetch)
+origin	https://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@github.com/tufzpua/rclone-cloud-webui.git (push)
+
+
+[]
